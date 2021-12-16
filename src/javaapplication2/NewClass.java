@@ -10,5 +10,5 @@ package javaapplication2;
  * @author 19576
  */
 public class NewClass {
-    
+    // V2
 }
